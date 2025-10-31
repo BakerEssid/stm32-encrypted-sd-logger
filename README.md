@@ -26,7 +26,9 @@ concurrentes et le système de files de messages pour la communication inter-tâ
 **.** Fournir une structure modulable pour l’ajout futur de nouveaux capteurs ou fonctionnalités.
 
 # 🔒 Exemple de données chiffrées
-<p align="center"> <img src="encypted_data.png" alt="Architecture du système" width="700"/> </p>
+<p align="center">
+  <img src="./encrypted_data.png" alt="Exemple de données chiffrées" width="700"/>
+</p>
 
 # 🤝 Contribution
 Les contributions sont les bienvenues !
